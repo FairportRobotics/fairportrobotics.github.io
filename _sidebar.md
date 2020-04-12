@@ -18,6 +18,7 @@
   * Configuring Git
   * Creating up a repo
   * Pushing to a repo
+  * Advanced Git
 * Creating a robot program
   * The Test Bench
   * Updating Hardware
