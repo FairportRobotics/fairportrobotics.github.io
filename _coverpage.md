@@ -1,4 +1,4 @@
-![logo](_media/logo.svg)
+![logo](_media/logo.png)
 
 # Team 578 Software Subteam Documentation
 
