@@ -11,19 +11,25 @@
   <style>
     :root {
       /* Base */
-      --selection-color      : #293f5a;
+      --base-background-color: #1a1a1a;
+      --selection-color: #293f5a;
 
       /* Cover page */
       --cover-heading-font-size: var(--font-size-xl);
       --cover-heading-font-size-max: var(--font-size-xl);
       --cover-blockquote-color: #6dafff;
-      --cover-button-primary-background--hover: #185396;
-      --cover-button-primary-border--hover: 1px solid #185396;
+      --cover-button-primary-background--hover: hsl(var(--theme-hue), var(--theme-saturation), calc(var(--theme-lightness) - 15%));
+      --cover-button-primary-border--hover: 1px solid hsl(var(--theme-hue), var(--theme-saturation), calc(var(--theme-lightness) - 15%));
 
       /* Stuff on the sidebar */
+      --sidebar-background: var(--base-background-color);
       --sidebar-name-font-size: calc(var(--font-size-l) - 1px);
       --sidebar-name-margin: 1rem 0 1rem; /* Top Sides Bottom */
       --search-margin: 0 0 0; /* Top Sides Bottom */
+      --sidebar-nav-link-text-decoration--hover: none;
+      /* --sidebar-nav-link-color--hover: hsl(var(--theme-hue), var(--theme-saturation), calc(var(--theme-lightness) + 20%)); (Lighter color?) */
+      --sidebar-nav-link-color--hover: var(--theme-color);
+      --sidebar-nav-link-font-weight--active: var(--strong-font-weight);
       --sidebar-nav-link-before-content--active: ;
       --sidebar-nav-link-before-content-l1: ;
       --sidebar-nav-link-before-content-l1--active: ;
@@ -33,6 +39,10 @@
       --sidebar-nav-link-before-content-l3--active: ;
       --sidebar-nav-link-before-content-l4: ;
       --sidebar-nav-link-before-content-l4--active: ;
+      
+      /* Search bar */
+      --search-background: var(--base-background-color);
+      --search-input-background-color: var(--base-background-color);
     }
 
     .cover p {
