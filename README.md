@@ -5,3 +5,6 @@ Please take time to read through all of the material; it will be helpful both in
 
 # Quick Reference Guide
 As the documentation grows, so will this quick reference guide. This is where useful links to more experience members will be stored so that they may be accessed easier.
+
+# Making Contributions
+If you notice or think of anything that could be improved, added, changed, or updated, please check out the [Contributing page](contributing.md) for how to go about doing this. Your feedback is always welcome!

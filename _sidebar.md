@@ -1,6 +1,7 @@
 * **Home**
   * [Introduction](README.md)
   * [About this guide](about.md)
+  * [Contributing](contributing.md)
 * **Java & WPILib**
   * What is Java?
   * What is WPILib?
