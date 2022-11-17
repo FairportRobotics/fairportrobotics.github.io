@@ -3,7 +3,7 @@
   * [About this guide](about.md)
   * [Contributing](contributing.md)
 * **Java & WPILib**
-  * What is Java?
+  * [What is Java?](java.md)
   * What is WPILib?
   * How does stuff get on a robot?
   * Command based programming
