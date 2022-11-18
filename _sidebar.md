@@ -4,7 +4,7 @@
   * [Contributing](contributing.md)
 * **Java & WPILib**
   * [What is Java?](javaAndWPILib/java.md)
-  * What is WPILib?
+  * [What is WPILib?](javaAndWPILib/wpilib.md)
   * How does stuff get on a robot?
   * Command based programming
 * **PID**
