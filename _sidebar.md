@@ -8,7 +8,7 @@
   * How does stuff get on a robot?
   * Command based programming
 * **PID**
-  * What is PID?
+  * [What is PID?](pid/pid.md)
   * Tuning PID
 * **Parts of a robot**
   * Motors/Talons
